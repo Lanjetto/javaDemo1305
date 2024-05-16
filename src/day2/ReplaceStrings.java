@@ -24,19 +24,26 @@ public class ReplaceStrings {
                 """;
         String target = "object-oriented programming";
         String replacement = "OOP";
-        StringBuilder sb = new StringBuilder(input.toLowerCase());
+        StringBuilder sb = new StringBuilder();
 
-        Pattern pattern = Pattern.compile(target);
-        Matcher matcher = pattern.matcher(input.toLowerCase());
+        Pattern pattern = Pattern.compile(target, Pattern.CASE_INSENSITIVE);
+        Matcher matcher = pattern.matcher(input);
+
         int count = 0;
+        int lastEnd = 0;
 
         while (matcher.find()) {
             count++;
+            sb.append(input, lastEnd, matcher.start());
             if (count %2 == 0) {
-                sb.replace(matcher.start(), matcher.end(), replacement);
-                matcher.reset(sb.toString());
+                sb.append(replacement);
+            } else {
+                sb.append(matcher.group());
             }
+            lastEnd = matcher.end();
         }
+
+        sb.append(input.substring(lastEnd));
         System.out.println(sb);
     }
 }
