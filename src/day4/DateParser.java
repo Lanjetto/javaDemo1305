@@ -15,7 +15,7 @@ public class DateParser {
 
     public static void parseFiles(String folderPath) throws IOException {
         try (Stream<Path> paths = Files.walk(Path.of(folderPath))) {
-            paths.filter(Files::isRegularFile)
+            paths.filter(path -> Files.isRegularFile(path))
                     .forEach(file -> {
                         try {
                             String content = Files.readString(file);
