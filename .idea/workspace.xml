@@ -4,14 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c303680a-9a91-40fc-a0cd-3fe7349cbd02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java1305.iml" afterDir="false" />
+    <list default="true" id="c303680a-9a91-40fc-a0cd-3fe7349cbd02" name="Changes" comment="Update 16.05_3">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java1/day3/Capitan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day1/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day2/Calulate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day2/FunInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day2/FunctionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day2/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day2/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day2/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day2/PrintableTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day2/Studen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day2/Univer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day3/MethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day3/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day3/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day3/ThreadPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day4/EmpDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day4/NewRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day4/Repeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day4/TestAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java2/day4/ThreadExPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java1305.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java1305.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/Days.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day2/Days.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day2/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/Kettle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day2/Kettle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/KettleShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day2/KettleShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day2/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/ReplaceStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day2/ReplaceStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day2/Report.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/SteamKettle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day2/SteamKettle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day2/Task9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/Toaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day2/Toaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/Cities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/Cities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/ioClasses/IODemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/ioClasses/IODemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/practice3/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/practice3/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/practice3/Apricot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/practice3/Apricot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/practice3/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/practice3/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/practice3/FruitShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/practice3/FruitShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/practice3/Pear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/practice3/Pear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/practice4/Drum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/practice4/Drum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/practice4/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/practice4/Guitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/practice4/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/practice4/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/practice4/MusicShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/practice4/MusicShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/practice4/Reed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/practice4/Reed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/transport/Boat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/transport/Boat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/transport/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/transport/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/transport/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/transport/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/transport/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/transport/Helicopter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/transport/Lorry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/transport/Lorry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/transport/Movable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/transport/Movable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/transport/SportCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day3/transport/SportCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day4/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day4/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day4/DateParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day4/DateParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day4/DateSeeker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day4/DateSeeker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day4/DivideByZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day4/DivideByZeroException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day4/LoginPasswordChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day4/LoginPasswordChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day4/WrongLoginException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day4/WrongLoginException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day4/WrongPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java1/day4/WrongPasswordException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +83,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
+        <option value="Record" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -40,27 +105,97 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Aleksandr.Mityasov/Desktop/Bootcamp2/SptingDemo",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.36154553"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Hello">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day3" />
+      <recent name="day2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksandr.Mityasov\Desktop\java1305\Java1305\resources\files\two" />
+      <recent name="C:\Users\Aleksandr.Mityasov\Desktop\java1305\Java1305\resources\files\three" />
+      <recent name="C:\Users\Aleksandr.Mityasov\Desktop\java1305\Java1305\resources\files" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java1.day3" />
+      <recent name="day4" />
+      <recent name="day3.practice4" />
+      <recent name="day3.practice3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThreadExPoolDemo">
+    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2.day3.StreamTest" />
       <module name="Java1305" />
-      <option name="PROGRAM_PARAMETERS" value="Alex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.Person" />
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2.day3.ThreadDemo" />
       <module name="Java1305" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="java2.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadExPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2.day4.ThreadExPoolDemo" />
+      <module name="Java1305" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPractice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2.day3.ThreadPractice3" />
+      <module name="Java1305" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Univer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2.day2.Univer" />
+      <module name="Java1305" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,8 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.ThreadExPoolDemo" />
+        <item itemvalue="Application.ThreadPractice3" />
+        <item itemvalue="Application.ThreadDemo" />
+        <item itemvalue="Application.Univer" />
+        <item itemvalue="Application.StreamTest" />
       </list>
     </recent_temporary>
   </component>
@@ -84,6 +222,73 @@
       <option name="presentableId" value="Default" />
       <updated>1715589954507</updated>
     </task>
+    <task id="LOCAL-00001" summary="Demo Java 14.05">
+      <option name="closed" value="true" />
+      <created>1715676994622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715676994622</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Demo Java 14.05">
+      <option name="closed" value="true" />
+      <created>1715677031617</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715677031617</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Demo Java 14.05">
+      <option name="closed" value="true" />
+      <created>1715684396462</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715684396462</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update 16.05">
+      <option name="closed" value="true" />
+      <created>1715853160953</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715853160953</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update 16.05_2">
+      <option name="closed" value="true" />
+      <created>1715854818242</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715854818242</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update 16.05_3">
+      <option name="closed" value="true" />
+      <created>1715854866257</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715854866257</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Demo Java 14.05" />
+    <MESSAGE value="Update 16.05" />
+    <MESSAGE value="Update 16.05_2" />
+    <MESSAGE value="Update 16.05_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 16.05_3" />
   </component>
 </project>
